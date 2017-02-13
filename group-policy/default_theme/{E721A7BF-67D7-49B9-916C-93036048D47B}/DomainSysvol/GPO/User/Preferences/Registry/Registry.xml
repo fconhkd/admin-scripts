@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}"><Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="VisualFXSetting" status="VisualFXSetting" image="12" changed="2014-03-13 22:36:09" uid="{EA4E49C0-C72D-4CC8-9A72-C0418A20145F}"><Properties action="U" displayDecimal="1" default="0" hive="HKEY_CURRENT_USER" key="Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects" name="VisualFXSetting" type="REG_DWORD" value="00000002"/></Registry>
+</RegistrySettings>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Files clsid="{215B2E53-57CE-475c-80FE-9EEC14635851}"><File clsid="{50BE44C8-567A-4ed1-B1D0-9234FE1F38AF}" name="exception.sites" status="exception.sites" image="1" changed="2014-07-02 15:39:44" uid="{61C5C710-E2B7-436E-A7F1-C5C44A394E1D}" bypassErrors="1"><Properties action="R" fromPath="\\dellserver\netlogon\java\exception.sites" targetPath="%USERPROFILE%\Appdata\LocalLow\Sun\Java\Deployment\security\exception.sites" readOnly="0" archive="1" hidden="0" suppress="0"/></File>
+</Files>

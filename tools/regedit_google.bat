@@ -7,7 +7,7 @@ echo.
 
 ECHO APAGANDO CHAVE DE REGISTRO GOOGLE CHROME
 REG DELETE HKLM\SOFTWARE\POLICIES\GOOGLE /f
-
+goto theEnd
 
 :noAdmin
 echo Você deve executar este script como um Administrador!

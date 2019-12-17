@@ -1,0 +1,1 @@
+Save file in folder 'Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg'

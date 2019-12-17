@@ -4,7 +4,7 @@
 
 'Server Details
 '==============
-hostName="ti.cardexpressbrasil.com.br"
+hostName="my-server-ip"
 portNo="8088"
 accountName="ACCOUNT_NAME"
 siteName="Site_NAME"

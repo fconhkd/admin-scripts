@@ -1,3 +1,12 @@
+//obter informações de usuários
+Get-ADUser fabianohkd
+
+//obter dados de usuários em tabela
+Get-ADUser fabianohkd | Format-Table Enabled,Givenname,ObjectClass,SamAccountName,UserPrincipalName
+
+//listar todos os usuários com um determinado atributo
+Get-ADUser -Filter {msExchHideFromAddressLists -eq "TRUE"} | Select-Object UserPrincipalName
+
 //criar uma senha segura no powershell, vc digita a senha em seguida
 $secpass = Read-Host "Password" -AsSecureString    
 

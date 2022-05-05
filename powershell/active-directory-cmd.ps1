@@ -20,7 +20,7 @@ Set-ADAccountPassword fabianohkd -Reset -NewPassword $secpass
 Set-ADAccountPassword -Identity fabianohkd -Reset -NewPassword (ConvertTo-SecureString -AsPlainText "$newPass" -Force)
 
 //modificar propriedades em usuários
-Set-ADUser fabianohkd -replace @{Mobile="12997872366"}
+Set-ADUser fabianohkd -replace @{Mobile="12988888366"}
 
 //ocultar o usuario da lista global do exchange server
 set-aduser fabianohkd  -replace @{msExchHideFromAddressLists="TRUE"}

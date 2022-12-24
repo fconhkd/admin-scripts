@@ -10,7 +10,7 @@ accountName="ACCOUNT_NAME"
 siteName="Site_NAME"
 
 '********** DO NOT MODIFY ANY CODE BELOW THIS **********
-protocol="http"
+protocol="https"
 serviceTag=""
 computerName=""
 macAddress=""

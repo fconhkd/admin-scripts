@@ -69,7 +69,7 @@ set wshshell=createobject("wscript.shell")
 '"entre em contato com o departamento de TI." & vbcrlf & _
 '""  & vbcrlf & _
 '""  & vbcrlf & _
-'"Tel: 98144-8851"
+'"Tel: 99999-9999"
 
 'msgbox strMensagem, 0 + 64, strTitulo'==============================================================================
 '==============================================================================
